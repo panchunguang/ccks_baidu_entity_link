@@ -81,7 +81,7 @@
 
 2. id_entity字典  key: kb_id  value: subject字段(实体名字)
 
-   ```json
+   ```python
    {'10001': '胜利'}
    ```
 
