@@ -1,0 +1,31 @@
+运行环境：
+python版本： python3.6
+cuda版本： 9.0
+cudnn版本： 7.1
+显卡： gtx1080ti
+显卡驱动：390.67
+
+
+python包以及版本：
+Keras	2.2.4
+keras-bert	0.46.0
+keras-lr-multiplier	0.7.0
+numpy	1.16.3
+pandas	0.24.2
+scikit-learn	0.20.3	0.21.2
+scipy	1.2.1	1.3.0
+sklearn	0.20.3
+tensorflow-gpu	1.12.0
+
+
+
+
+
+用到了BERT下载地址：
+https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip
+下载后解压，将里面的的文件复制到项目的 bert_model 文件夹下
+
+
+将原始数据文件放在项目的 original_data 文件夹下
+
+运行项目里面的 run.sh 即可
