@@ -3,7 +3,7 @@
 <center>队名：FREE 
    
 code 文件夹下为项目文件
- 
+ 比赛网址： https://biendata.com/competition/ccks_2019_el/
 
 **摘要**
 
