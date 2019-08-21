@@ -57,8 +57,8 @@ class Trie:
                         break
                 if self.search(en):
                     entitys.append((en,i))
-                    # i = e - 1
-                    i+=1
+                    i = e - 1
+                    #i+=1
                 else:
                     i += 1
             else:
