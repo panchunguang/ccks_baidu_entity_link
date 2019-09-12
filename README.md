@@ -244,7 +244,7 @@ BERT-ENE 模型如图 2 所示，其基本思路为：
 4.  通过构建的BERT-ENE 模型对匹配的结果进行筛选。
 
 <center>
-<img src="picture/bert _entity_embedding.jpg" width="90%" height="90%" />
+<img src="picture/bert _entity_embedding.png" width="90%" height="90%" />
 </center>
 
 模型具体过程为：
