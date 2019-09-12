@@ -1,9 +1,13 @@
 ### <center>**CCKS&百度 2019中文短文本的实体链指 第一名解决方案**
 
-<center>队伍：FREE 
-   潘春光 panchunguang@126.com\n
-   党金明 776039904@qq.com\n
-   杨智 1780041410@qq.com\n
+   队伍：FREE 
+   
+   潘春光 panchunguang@126.com
+   
+   党金明 776039904@qq.com
+   
+   杨智 1780041410@qq.com
+   
    郭旭炀 943024256@qq.com
 
 code 文件夹下为项目文件
