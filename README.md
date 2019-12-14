@@ -12,6 +12,9 @@
 
 code 文件夹下为项目文件
  比赛网址： https://biendata.com/competition/ccks_2019_el/
+ 数据集：https://pan.baidu.com/s/1SShtugdAMVf0fdaBowtMiA 提取码:8r80
+ 这是提交的时候代码，自己测试是请先划分出验证集，上述所有代码都是交叉验证有多个模型，很费时间，自己跑的时候跑一折就行
+ 
 
 **摘要**
 
