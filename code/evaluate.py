@@ -15,8 +15,7 @@ def get_index_bio_dict():
     index_bio={}
     for k in bio_dict:
         index_bio[bio_dict[k]]=k
-    index_bio[3]='O'
-    index_bio[4] = 'O'
+    index_bio[4] = index_bio[3]='O'
     return index_bio
 def get_entity(lable,index_bio):
     lable = [index_bio[i] for i in lable]
